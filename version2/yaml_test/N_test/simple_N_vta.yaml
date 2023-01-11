@@ -1,0 +1,29 @@
+---
+order: N
+num_of_days: 2
+max_time: 8
+max_study_time: 6
+begining_date: 2023-01-10T00:00
+fta:
+  breakfast:
+    start_time: 2023-01-10T08:20
+    end_time: 2023-01-10T09:00
+  lunch:
+    start_time: 2023-01-10T12:20
+    end_time: 2023-01-10T13:00
+  dinner:
+    start_time: 2023-01-10T18:20
+    end_time: 2023-01-10T19:00
+  sleep:
+    start_time: 2023-01-10T00:00
+    end_time: 2023-01-10T08:00
+vta:
+  event1:
+    description: str
+    start_time: 2023-01-10T11:00
+    end_time: 2023-01-10T18:00
+    frequency: 1
+    study: 1
+    time_needed: 60
+    priority: 2
+    min_timeblock: 30

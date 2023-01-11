@@ -1,0 +1,71 @@
+---
+order: N
+num_of_days: 3
+max_time: 8
+max_study_time: 6
+begining_date: 2023-01-10T00:00
+fta:
+  breakfast:
+    start_time: 2023-01-10T09:00
+    end_time: 2023-01-10T09:30
+  lunch:
+    start_time: 2023-01-10T12:30
+    end_time: 2023-01-10T13:15
+  dinner:
+    start_time: 2023-01-10T18:15
+    end_time: 2023-01-10T19:00
+  sleep:
+    start_time: 2023-01-10T01:00
+    end_time: 2023-01-10T09:00
+  Math237 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-11T11:15
+    end_time: 2023-01-11T12:30
+    frequency: 7
+    study: 1
+  Math237 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-13T11:15
+    end_time: 2023-01-13T12:30
+    frequency: 7
+    study: 1
+  Math237 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-16T11:15
+    end_time: 2023-01-16T12:30
+    frequency: 7
+    study: 1
+  Math235 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-11T13:15
+    end_time: 2023-01-11T14:30
+    frequency: 7
+    study: 1
+  Math235 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-13T13:15
+    end_time: 2023-01-13T14:30
+    frequency: 7
+    study: 1
+  Math235 Lecture:
+    description: yeah, lecture
+    start_time: 2023-01-16T13:15
+    end_time: 2023-01-16T14:30
+    frequency: 7
+    study: 1
+  Math237 Tutorial:
+    description: yeah, tutorial
+    start_time: 2023-01-11T17:15
+    end_time: 2023-01-11T18:30
+    frequency: 7
+    study: 1
+vta:
+  event1:
+    description: str
+    start_time: 2023-01-10T11:00
+    end_time: 2023-01-10T18:00
+    frequency: 1
+    study: 1
+    time_needed: 60
+    priority: 2
+    min_timeblock: 30

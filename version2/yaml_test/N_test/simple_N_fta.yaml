@@ -1,0 +1,26 @@
+---
+order: N
+num_of_days: 8
+max_time: 8
+max_study_time: 6
+begining_date: 2023-01-08
+fta: 
+  breakfast:
+    start_time: 2023-01-08T08:20
+    end_time: 2023-01-08T09:00
+  lunch:
+    start_time: 2023-01-08T12:20
+    end_time: 2023-01-08T13:00
+  dinner:
+    start_time: 2023-01-08T18:20
+    end_time: 2023-01-08T19:00
+  sleep:
+    start_time: 2023-01-08T00:00
+    end_time: 2023-01-08T08:00
+  event1:
+    description: balabala
+    start_time: 2023-01-09T11:00
+    end_time: 2023-01-09T12:00
+    frequency: 0
+    study: 1
+vta:
