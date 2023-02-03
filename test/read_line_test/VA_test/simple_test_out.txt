@@ -1,8 +1,0 @@
-Day 1:
-simple test
-begins at: 16:00
-ends at 17:00
-
-rest for study
-begins at: 17:00
-ends at 17:10
