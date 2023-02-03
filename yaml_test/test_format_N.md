@@ -1,4 +1,3 @@
----
 order: N
 num_of_days: n (int)
 max_time: n (int, in hour)
